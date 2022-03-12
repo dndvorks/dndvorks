@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dndvorks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Dave Borca
+- 👀 I’m interested in Music, Coding, and eating Chocolates
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me ... 09771127727 / dndvrks@gmail.com
 
 <!---
